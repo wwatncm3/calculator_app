@@ -5,7 +5,7 @@ function simpCalculator(){
     //Get Results
     let results = [];
     //Table for Displaying res
-    let tableResults = "<table border='1'><tr><th>Number 1</th><th>Operator</th><th>Number 2</th><th>Result</th></tr>";
+    let tableResults = "<h2>Calculations</h2><table border='1'><tr><th>Number 1</th><th>Operator</th><th>Number 2</th><th>Result</th></tr>";
 
     //while true loop
     while(true) {
